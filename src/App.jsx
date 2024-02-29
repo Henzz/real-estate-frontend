@@ -1692,13 +1692,13 @@ function App() {
                               </span>
                               <span className="inline-block align-top">
                                 <h3 className="text-lg font-bold block">
-                                  Call
+                                  Schedule Meeting
                                 </h3>
-                                <p className="block text-base">+251911223344</p>
+                                <p className="block text-base">Set time here</p>
                               </span>
                             </div>
                             <button className="mt-6 py-3 px-8 w-full text-lg block bg-blue-100 text-black rounded-full ml-auto">
-                              Call Now
+                              Send Request
                             </button>
                           </div>
                           <div className="bg-slate-100 p-6 leading-normal rounded-2xl">
@@ -1749,13 +1749,13 @@ function App() {
                               </span>
                               <span className="inline-block align-top">
                                 <h3 className="text-lg font-bold block">
-                                  Call
+                                  Chat
                                 </h3>
-                                <p className="block text-base">+251911223344</p>
+                                <p className="block text-base">Connect with FB</p>
                               </span>
                             </div>
                             <button className="mt-6 py-3 px-8 w-full text-lg block bg-blue-100 text-black rounded-full ml-auto">
-                              Call Now
+                              Start Chat
                             </button>
                           </div>
                           <div className="bg-slate-100 p-6 leading-normal rounded-2xl">
@@ -1789,12 +1789,12 @@ function App() {
                               </span>
                               <span className="inline-block align-top">
                                 <h3 className="text-lg font-bold block">
-                                  Call
+                                  Video Call
                                 </h3>
                                 <p className="block text-base">+251911223344</p>
                               </span>
                             </div>
-                            <button className="mt-6 py-3 px-8 w-full text-lg block bg-blue-100 text-black rounded-full ml-auto">
+                            <button className="mt-6 py-3 px-8 w-full text-lg block bg-blue-500 text-white rounded-full ml-auto">
                               Call Now
                             </button>
                           </div>
