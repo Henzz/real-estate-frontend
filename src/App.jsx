@@ -1248,7 +1248,7 @@ function App() {
                     </span>{" "}
                     works
                   </h1>
-                  <div className="mt-[45px] grid grid-cols-2 min-h-[600px]">
+                  <div className="mt-[60px] grid grid-cols-2 min-h-[600px]">
                     <div className="relative py-4 before:content-[''] before:bg-blue-500 before:block before:absolute before:left-0 before:top-0 before:h-full before:w-1/2 before:-z-10 before:rounded-2xl">
                       <div className="grid grid-cols-2 w-auto max-w-[80%] ml-4 mr-auto bg-white rounded-2xl p-6 border shadow-lg">
                         <div className="w-full h-[200px] flex">
@@ -1333,7 +1333,7 @@ function App() {
                                 </g>
                               </svg>
                             </span>
-                            Our Interior
+                            Customizable Facilities
                           </h1>
                           <h3 className="mt-4 font-bold">Budget: 1,200 ETB</h3>
                           <p className="mt-2">
@@ -1379,7 +1379,7 @@ function App() {
                                 </g>
                               </svg>
                             </span>
-                            Our Interior
+                            Extra Color Facilities
                           </h1>
                           <h3 className="mt-4 font-bold">Budget: 1,200 ETB</h3>
                           <p className="mt-2">
@@ -1477,7 +1477,7 @@ function App() {
                         </span>
                         <div>
                           <h3 className="font-bold text-xl">
-                            Discover Real Estate
+                            Schedule Visit
                           </h3>
                           <p className="mt-2 text-base">
                             Embark on a journey of discovery with our real
@@ -1517,7 +1517,7 @@ function App() {
                         </span>
                         <div>
                           <h3 className="font-bold text-xl">
-                            Discover Real Estate
+                            Virtually Tour
                           </h3>
                           <p className="mt-2 text-base">
                             Embark on a journey of discovery with our real
@@ -1574,7 +1574,7 @@ function App() {
                         </span>
                         <div>
                           <h3 className="font-bold text-xl">
-                            Discover Real Estate
+                            Finalize the Deal
                           </h3>
                           <p className="mt-2 text-base">
                             Embark on a journey of discovery with our real
