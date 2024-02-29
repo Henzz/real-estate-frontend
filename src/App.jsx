@@ -1417,8 +1417,162 @@ function App() {
                           </p>
                         </div>
                       </div>
+                      <div className="grid grid-cols-2 mt-4 w-auto max-w-[80%] ml-4 mr-auto bg-white rounded-2xl p-6 border shadow-lg">
+                        <div className="w-full h-[200px] flex">
+                          <img
+                            src="https://img.freepik.com/free-photo/hand-holding-house-real-estate-property-model_53876-129010.jpg?w=826&t=st=1709192446~exp=1709193046~hmac=6ca633d544e2422b2636c453b002bd36f6f08c2b75cdbc76c11772e90dec65d0"
+                            alt="house image"
+                            className="w-auto h-auto max-w-full max-h-full m-auto"
+                          />
+                        </div>
+                        <div className="w-full h-full">
+                          <h1>Our Interior</h1>
+                          <h3>Budget: 1,200 ETB</h3>
+                          <p>
+                            Transform spaces into expressions of elegance and
+                            comfort with our interior section
+                          </p>
+                        </div>
+                      </div>
+                      <div className="grid grid-cols-2 mt-4 w-auto max-w-[80%] ml-4 mr-auto bg-white rounded-2xl p-6 border shadow-lg">
+                        <div className="w-full h-[200px] flex">
+                          <img
+                            src="https://img.freepik.com/free-photo/hand-holding-house-real-estate-property-model_53876-129010.jpg?w=826&t=st=1709192446~exp=1709193046~hmac=6ca633d544e2422b2636c453b002bd36f6f08c2b75cdbc76c11772e90dec65d0"
+                            alt="house image"
+                            className="w-auto h-auto max-w-full max-h-full m-auto"
+                          />
+                        </div>
+                        <div className="w-full h-full">
+                          <h1>Our Interior</h1>
+                          <h3>Budget: 1,200 ETB</h3>
+                          <p>
+                            Transform spaces into expressions of elegance and
+                            comfort with our interior section
+                          </p>
+                        </div>
+                      </div>
                     </div>
-                    <div className="w-full h-full">
+                    <div className="w-full h-full flex flex-col gap-10">
+                      <div className="flex gap-4 items-baseline">
+                        <span className="self-center text-center bg-blue-100 text-blue-600 rounded-full p-4">
+                          <svg
+                            className="w-[45px] h-[45px] inline-block"
+                            fill="currentColor"
+                            height="200px"
+                            width="200px"
+                            version="1.1"
+                            id="Capa_1"
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 266.798 266.798"
+                          >
+                            <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
+                            <g
+                              id="SVGRepo_tracerCarrier"
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                            ></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g>
+                                <path d="M94.675,103.299c-2.526,0-4.574,2.048-4.574,4.574v69.403c0,2.526,2.048,4.574,4.574,4.574h46.267h46.268h46.266 c2.526,0,4.573-2.048,4.573-4.574v-69.403c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.119 v-64.829c0-2.526-2.047-4.574-4.573-4.574h-46.268c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.12v-64.829 C99.249,105.347,97.201,103.299,94.675,103.299z M145.515,112.447h37.122v60.255h-37.122V112.447z"></path>
+                                <path d="M69.16,111.107l94.911-94.911l94.917,94.912c0.893,0.893,2.063,1.339,3.234,1.339s2.341-0.447,3.234-1.34 c1.786-1.786,1.786-4.682,0-6.468l-47.735-47.732V9.728c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v38.033 l-41.27-41.267c-1.787-1.786-4.682-1.786-6.469,0l-98.144,98.145c-1.786,1.786-1.786,4.682,0,6.468 C64.478,112.893,67.374,112.893,69.16,111.107z"></path>
+                                <path d="M262.222,210.458c-2.526,0-4.573,2.048-4.573,4.574v19.024H70.5v-19.024c0-2.526-2.048-4.574-4.574-4.574 c-2.526,0-4.574,2.048-4.574,4.574v47.192c0,2.526,2.048,4.574,4.574,4.574c2.526,0,4.574-2.048,4.574-4.574v-19.021h187.149 v19.021c0,2.526,2.047,4.574,4.573,4.574c2.526,0,4.573-2.048,4.573-4.574v-47.192 C266.796,212.506,264.749,210.458,262.222,210.458z"></path>
+                                <path d="M51.767,9.147c2.526,0,4.574-2.048,4.574-4.574S54.293,0,51.767,0H4.575C2.049,0,0.002,2.048,0.002,4.574 s2.048,4.574,4.574,4.574h19.021v187.149H4.575c-2.526,0-4.574,2.048-4.574,4.574c0,2.526,2.048,4.574,4.574,4.574h47.192 c2.526,0,4.574-2.048,4.574-4.574c0-2.526-2.048-4.574-4.574-4.574H32.744V9.147H51.767z"></path>
+                              </g>
+                            </g>
+                          </svg>
+                        </span>
+                        <div>
+                          <h3 className="font-bold text-xl">
+                            Discover Real Estate
+                          </h3>
+                          <p className="mt-2 text-base">
+                            Embark on a journey of discovery with our real
+                            estate offerings, where every property unveils a
+                            unique story and an opportunity for a new chapter in
+                            your life.
+                          </p>
+                        </div>
+                      </div>
+                      <div className="flex gap-4 items-baseline">
+                        <span className="self-center text-center bg-blue-100 text-blue-600 rounded-full p-4">
+                          <svg
+                            className="w-[45px] h-[45px] inline-block"
+                            fill="currentColor"
+                            height="200px"
+                            width="200px"
+                            version="1.1"
+                            id="Capa_1"
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 266.798 266.798"
+                          >
+                            <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
+                            <g
+                              id="SVGRepo_tracerCarrier"
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                            ></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g>
+                                <path d="M94.675,103.299c-2.526,0-4.574,2.048-4.574,4.574v69.403c0,2.526,2.048,4.574,4.574,4.574h46.267h46.268h46.266 c2.526,0,4.573-2.048,4.573-4.574v-69.403c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.119 v-64.829c0-2.526-2.047-4.574-4.573-4.574h-46.268c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.12v-64.829 C99.249,105.347,97.201,103.299,94.675,103.299z M145.515,112.447h37.122v60.255h-37.122V112.447z"></path>
+                                <path d="M69.16,111.107l94.911-94.911l94.917,94.912c0.893,0.893,2.063,1.339,3.234,1.339s2.341-0.447,3.234-1.34 c1.786-1.786,1.786-4.682,0-6.468l-47.735-47.732V9.728c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v38.033 l-41.27-41.267c-1.787-1.786-4.682-1.786-6.469,0l-98.144,98.145c-1.786,1.786-1.786,4.682,0,6.468 C64.478,112.893,67.374,112.893,69.16,111.107z"></path>
+                                <path d="M262.222,210.458c-2.526,0-4.573,2.048-4.573,4.574v19.024H70.5v-19.024c0-2.526-2.048-4.574-4.574-4.574 c-2.526,0-4.574,2.048-4.574,4.574v47.192c0,2.526,2.048,4.574,4.574,4.574c2.526,0,4.574-2.048,4.574-4.574v-19.021h187.149 v19.021c0,2.526,2.047,4.574,4.573,4.574c2.526,0,4.573-2.048,4.573-4.574v-47.192 C266.796,212.506,264.749,210.458,262.222,210.458z"></path>
+                                <path d="M51.767,9.147c2.526,0,4.574-2.048,4.574-4.574S54.293,0,51.767,0H4.575C2.049,0,0.002,2.048,0.002,4.574 s2.048,4.574,4.574,4.574h19.021v187.149H4.575c-2.526,0-4.574,2.048-4.574,4.574c0,2.526,2.048,4.574,4.574,4.574h47.192 c2.526,0,4.574-2.048,4.574-4.574c0-2.526-2.048-4.574-4.574-4.574H32.744V9.147H51.767z"></path>
+                              </g>
+                            </g>
+                          </svg>
+                        </span>
+                        <div>
+                          <h3 className="font-bold text-xl">
+                            Discover Real Estate
+                          </h3>
+                          <p className="mt-2 text-base">
+                            Embark on a journey of discovery with our real
+                            estate offerings, where every property unveils a
+                            unique story and an opportunity for a new chapter in
+                            your life.
+                          </p>
+                        </div>
+                      </div>
+                      <div className="flex gap-4 items-baseline">
+                        <span className="self-center text-center bg-blue-100 text-blue-600 rounded-full p-4">
+                          <svg
+                            className="w-[45px] h-[45px] inline-block"
+                            fill="currentColor"
+                            height="200px"
+                            width="200px"
+                            version="1.1"
+                            id="Capa_1"
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 266.798 266.798"
+                          >
+                            <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
+                            <g
+                              id="SVGRepo_tracerCarrier"
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                            ></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g>
+                                <path d="M94.675,103.299c-2.526,0-4.574,2.048-4.574,4.574v69.403c0,2.526,2.048,4.574,4.574,4.574h46.267h46.268h46.266 c2.526,0,4.573-2.048,4.573-4.574v-69.403c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.119 v-64.829c0-2.526-2.047-4.574-4.573-4.574h-46.268c-2.526,0-4.573,2.048-4.573,4.574v64.829h-37.12v-64.829 C99.249,105.347,97.201,103.299,94.675,103.299z M145.515,112.447h37.122v60.255h-37.122V112.447z"></path>
+                                <path d="M69.16,111.107l94.911-94.911l94.917,94.912c0.893,0.893,2.063,1.339,3.234,1.339s2.341-0.447,3.234-1.34 c1.786-1.786,1.786-4.682,0-6.468l-47.735-47.732V9.728c0-2.526-2.047-4.574-4.573-4.574c-2.526,0-4.573,2.048-4.573,4.574v38.033 l-41.27-41.267c-1.787-1.786-4.682-1.786-6.469,0l-98.144,98.145c-1.786,1.786-1.786,4.682,0,6.468 C64.478,112.893,67.374,112.893,69.16,111.107z"></path>
+                                <path d="M262.222,210.458c-2.526,0-4.573,2.048-4.573,4.574v19.024H70.5v-19.024c0-2.526-2.048-4.574-4.574-4.574 c-2.526,0-4.574,2.048-4.574,4.574v47.192c0,2.526,2.048,4.574,4.574,4.574c2.526,0,4.574-2.048,4.574-4.574v-19.021h187.149 v19.021c0,2.526,2.047,4.574,4.573,4.574c2.526,0,4.573-2.048,4.573-4.574v-47.192 C266.796,212.506,264.749,210.458,262.222,210.458z"></path>
+                                <path d="M51.767,9.147c2.526,0,4.574-2.048,4.574-4.574S54.293,0,51.767,0H4.575C2.049,0,0.002,2.048,0.002,4.574 s2.048,4.574,4.574,4.574h19.021v187.149H4.575c-2.526,0-4.574,2.048-4.574,4.574c0,2.526,2.048,4.574,4.574,4.574h47.192 c2.526,0,4.574-2.048,4.574-4.574c0-2.526-2.048-4.574-4.574-4.574H32.744V9.147H51.767z"></path>
+                              </g>
+                            </g>
+                          </svg>
+                        </span>
+                        <div>
+                          <h3 className="font-bold text-xl">
+                            Discover Real Estate
+                          </h3>
+                          <p className="mt-2 text-base">
+                            Embark on a journey of discovery with our real
+                            estate offerings, where every property unveils a
+                            unique story and an opportunity for a new chapter in
+                            your life.
+                          </p>
+                        </div>
+                      </div>
                       <div className="flex gap-4 items-baseline">
                         <span className="self-center text-center bg-blue-100 text-blue-600 rounded-full p-4">
                           <svg
