@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import "./App.css";
 import { useRef } from "react";
+import ScrollToTop from "./ScrollToTop";
 
 function App() {
   // Color codes
@@ -62,6 +63,7 @@ function App() {
   };
   return (
     <Router>
+      <ScrollToTop />
       <Routes>
         <Route
           path="/"
@@ -191,7 +193,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -491,7 +493,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -641,7 +643,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -791,7 +793,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -941,7 +943,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -1091,7 +1093,7 @@ function App() {
                         {/* <div className="w-full block h-[300px] relative shadow-lg">
                       </div> */}
                         <span className="py-2 px-6 bg-orange-400 text-white rounded-full absolute right-2 top-2">
-                          For rent
+                          For Rent
                         </span>
                         <div className="flex w-full h-full">
                           <img
@@ -1476,9 +1478,7 @@ function App() {
                           </svg>
                         </span>
                         <div>
-                          <h3 className="font-bold text-xl">
-                            Schedule Visit
-                          </h3>
+                          <h3 className="font-bold text-xl">Schedule Visit</h3>
                           <p className="mt-2 text-base">
                             Embark on a journey of discovery with our real
                             estate offerings, where every property unveils a
@@ -1516,9 +1516,7 @@ function App() {
                           </svg>
                         </span>
                         <div>
-                          <h3 className="font-bold text-xl">
-                            Virtually Tour
-                          </h3>
+                          <h3 className="font-bold text-xl">Virtually Tour</h3>
                           <p className="mt-2 text-base">
                             Embark on a journey of discovery with our real
                             estate offerings, where every property unveils a
@@ -1751,7 +1749,9 @@ function App() {
                                 <h3 className="text-lg font-bold block">
                                   Chat
                                 </h3>
-                                <p className="block text-base">Connect with FB</p>
+                                <p className="block text-base">
+                                  Connect with FB
+                                </p>
                               </span>
                             </div>
                             <button className="mt-6 py-3 px-8 w-full text-lg block bg-blue-100 text-black rounded-full ml-auto">
